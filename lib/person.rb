@@ -20,3 +20,5 @@ class Person
 
 
 end
+
+agatha = Person.new
