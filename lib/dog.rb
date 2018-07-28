@@ -17,3 +17,5 @@ def breed=(dog_breed)
 end
 
 end
+
+fluff = Dog.new
