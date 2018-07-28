@@ -21,4 +21,4 @@ class Person
 
 end
 
-agatha = Person.new
+agatha = Person.new("Agatha")
