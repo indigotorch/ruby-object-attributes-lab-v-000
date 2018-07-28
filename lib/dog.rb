@@ -18,4 +18,4 @@ end
 
 end
 
-fluff = Dog.new
+fluff = Dog.new("Fluff")
